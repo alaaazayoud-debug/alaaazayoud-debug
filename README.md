@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Alaa 👋
 
-<!--
-**alaaazayoud-debug/alaaazayoud-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Full-Stack Software Developer with hands-on experience building web and mobile applications. I have worked on training projects and client tasks, focusing on delivering complete technical solutions across all layers of development.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+*   **Frontend:** React, Flutter, Dart
+*   **Backend:** Node.js, Express, MySQL
+*   **Tools:** Git, GitHub, Vite, Socket.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+*(Coming soon)*
+
+## 📫 Contact Me
+*   **LinkedIn:** [www.linkedin.com/in/alaa-zayood-b41316352](https://www.linkedin.com/in/alaa-zayood-b41316352)
+*   **Email:** [Alaazayood@gmail.com](mailto:Alaa.a.zayoud@gmail.com)
